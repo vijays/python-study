@@ -13,3 +13,5 @@ iris: machine learning
 image_manipulation: blurring image using Pillow / PIL
 
 jpg_to_png_batch_converter: command line args source_folder destination_folder
+
+pdf_watermarker: pdf manipulation
