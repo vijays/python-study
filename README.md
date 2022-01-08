@@ -15,3 +15,5 @@ image_manipulation: blurring image using Pillow / PIL
 jpg_to_png_batch_converter: command line args source_folder destination_folder
 
 pdf_watermarker: pdf manipulation
+
+password_hack_check: command line args password_to_check
